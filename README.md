@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About Me
 ### Hi there 👋, I'm **Alain Michael Muhirwa**, a full-stack developer with a deep fascination for the intersection of technology and intelligence. From crafting pixel-perfect front-end interfaces to architecting robust back-end systems, I thrive on building end-to-end solutions. My toolkit includes Python, Django, JavaScript, HTML, CSS, and various frameworks like React and Node.js. I'm also passionate about AI and machine learning and ways they could be incorporated into applications and such.
 
